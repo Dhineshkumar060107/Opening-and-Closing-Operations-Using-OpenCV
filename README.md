@@ -131,19 +131,6 @@ plt.show()
 - Connecting nearby components.
 - Enhancing segmented regions.
 
-## Advantages
-
-### Opening
-
-- Removes unwanted foreground noise.
-- Preserves major object structures.
-- Improves segmentation quality.
-
-### Closing
-
-- Restores object continuity.
-- Eliminates small background gaps.
-- Improves object representation.
 
 ## Result
 
